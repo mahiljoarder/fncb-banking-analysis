@@ -12,7 +12,7 @@ A multinational bank with 20 branches across the USA, UK, Canada, and Mexico. Th
 
 
 
-## 🛠️ Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
